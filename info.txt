@@ -1,1 +1,3 @@
 hi , i am krishna and here to complete week-4-challenges
+
+so i am adding more details inside feature-update branch
